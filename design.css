@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding:0;
+    font-family: sans-serif;
+    background: black;
+    box-sizing: border-box;
+    height: 100vh;
+}
+
+p{
+    position:relative ;
+    font-size:8px;
+    letter-spacing: 8px;
+    text-align: justify;
+    line-height: 8px;
+    background-size: cover;
+    background-position: center;
+    background: url(IMAGE.jpg) no-repeat center/cover;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -webkit-background-clip:text;
+    -webkit-text-fill-color: rgba(225, 225, 225, 0);
+}   
+/*D☼*/
